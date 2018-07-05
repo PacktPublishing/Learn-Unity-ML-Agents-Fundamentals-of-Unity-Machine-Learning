@@ -1,4 +1,4 @@
-# Learn-Unity-ML-Agents - Fundamentals-of-Unity-Machine-Learning
+# Learn Unity ML-Agents - Fundamentals of Unity Machine Learning
 
 <a href="https://www.packtpub.com/game-development/learn-unity-ml-agents-%E2%80%93-fundamentals-unity-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781789138139"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10576.png" alt="Learn Unity ML-Agents – Fundamentals of Unity Machine Learning" height="256px" align="right"></a>
 
