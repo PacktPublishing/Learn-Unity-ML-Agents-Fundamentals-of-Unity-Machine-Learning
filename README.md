@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-unity-ml-agents-fundamentals-of-unity-machine-learning/9781789138139)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789138132).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learn Unity ML-Agents - Fundamentals of Unity Machine Learning
 
 <a href="https://www.packtpub.com/game-development/learn-unity-ml-agents-%E2%80%93-fundamentals-unity-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781789138139"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10576.png" alt="Learn Unity ML-Agents – Fundamentals of Unity Machine Learning" height="256px" align="right"></a>
