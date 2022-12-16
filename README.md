@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789138139)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learn Unity ML-Agents - Fundamentals of Unity Machine Learning
 
 <a href="https://www.packtpub.com/game-development/learn-unity-ml-agents-%E2%80%93-fundamentals-unity-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781789138139"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10576.png" alt="Learn Unity ML-Agents – Fundamentals of Unity Machine Learning" height="256px" align="right"></a>
